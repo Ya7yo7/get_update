@@ -19,7 +19,7 @@ public class CurrencyService {
             Map.entry("OMR", new CurrencyInfo("Oman Riyal", "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/800px-Flag_of_Oman.svg.png?20230424003038")),
             Map.entry("QAR", new CurrencyInfo("Qatari Riyal", "https://t3.ftcdn.net/jpg/01/07/55/26/360_F_107552619_a171Nedp416hbFa7p2ETRxhDa1ZGGAGh.jpg")),
             Map.entry("SAR", new CurrencyInfo("Saudi Riyal", "https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg")),
-            Map.entry("EGP", new CurrencyInfo("Egyptian Pound", "https://freesvg.org/img/egypt.png"))
+            Map.entry("EGP", new CurrencyInfo("Egyptian Pound", "https://cdn.britannica.com/85/185-004-1EA59040/Flag-Egypt.jpg"))
             // Add more entries for other currencies as needed
     );
 
